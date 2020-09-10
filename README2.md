@@ -1,3 +1,3 @@
 # kakao-clone-v2
 
-css got so much better!
+HTML & CSS got so much fun!
